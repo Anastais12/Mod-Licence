@@ -1,6 +1,6 @@
 Minecraft Mod License
 
-Mod Name: [Your Mod Name]
+Mod Name: Project Zero Limit
 
 Copyright (c) 2025 cl1ppz12
 
